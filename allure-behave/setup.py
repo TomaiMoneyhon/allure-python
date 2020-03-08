@@ -1,6 +1,6 @@
 import os
 from setuptools import setup
-hi = "Hi"
+
 PACKAGE = "allure-behave"
 
 classifiers = [
